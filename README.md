@@ -65,7 +65,7 @@ Skilled in designing and implementing secure, resilient, and fully automated dep
 - **🎓 Education:** B.Tech in Computer Science and Engineering
 - **💖 Core Focus:** DevSecOps, GitOps, Cloud-Native Security, and Observability
 - **👨🏽‍💻 Currently Deepening Knowledge in:** Kubernetes Security (Admission Controllers, RBAC), Azure DevOps/Security Services, and refining Observability Stack (Prometheus, Jaeger, OTel)
-- **📚 Key Technologies:** Agile/Scrum, CI/CD (GitLab/Jenkins/GitHub Actions), IaC (Terraform, Ansible), Containers (Docker, K8s), Databases (MySQL, PostgreSQL, MongoDB), Observability (Prometheus/Grafana/Jaeger/ELK/AlertManager)
+- **📚 Key Technologies:** Agile/Scrum, CI/CD (GitLab/Jenkins/GitHub Actions), IaC (Terraform, Ansible), Containers (Docker, K8s), Databases (MySQL, PostgreSQL, MongoDB), Observability Stack (Prometheus/Grafana/Jaeger/ELK/AlertManager)
 - **🤔 Exploring:** Advanced vulnerability scanning with fuzzing and building self-healing infrastructure
 - **🖍 Getting Better At:** Automation scripting with Python and Bash
 - **👀 Interests:** Cloud & DevSecOps Engineering, Security-as-Code
@@ -76,14 +76,13 @@ Skilled in designing and implementing secure, resilient, and fully automated dep
 
 - **💬 Ask me about:** Kubernetes, GitOps, CI/CD pipeline optimization, Cloud Security, Terraform, and implementing Observability stacks
 - **📫 Email:** [17rahuljoshi@gmail.com](mailto:17rahuljoshi@gmail.com)
-- **🔗 Connect:** [Portfolio](#) | [LinkedIn](#) | [HackerRank](#)
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
-</p>
+</p> -->
