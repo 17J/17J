@@ -12,7 +12,7 @@ Skilled in designing and implementing secure, resilient, and fully automated dep
 
 ## 🎓 Education
 
-- **Jaipur Engineer College (JEC)**
+- **Jaipur Engineering College (JEC)**
   - Bachelor of Technology - **B.Tech, Computer Science and Engineering**
 
 ---
@@ -22,45 +22,57 @@ Skilled in designing and implementing secure, resilient, and fully automated dep
 ### Infrastructure, Automation, & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ansible,aws,azure,docker,github,gitlab,jenkins,kubernetes,python,terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible,aws,azure,docker,github,gitlab,jenkins,kubernetes,python,terraform" alt="DevOps Tools" />
 </p>
 
 ### Security, Scanning, & Observability
 
-### Security, Scanning, & Observability
+#### 🔒 Infrastructure as Code Security
 
 <p align="center">
-    ![Checkov](https://img.shields.io/badge/Checkov-4C4A73?style=for-the-badge&logo=checkmarx&logoColor=white) 
-    ![TerraScan](https://img.shields.io/badge/TerraScan-2596be?style=for-the-badge&logo=apache&logoColor=white)
-    ![TFSec](https://img.shields.io/badge/TFSec-131112?style=for-the-badge&logo=apache&logoColor=white) 
-    ![Dockle](https://img.shields.io/badge/Dockle-3273A5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0iI2YxNjYwNyIvPjxwYXRoIGQ9Ik01MCA1MGwwIDUwYzI3LjYxNCwwIDUwLTIyLjM4NiA1MC01MHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
-    ![Prowler](https://img.shields.io/badge/Prowler-FFC0CB?style=for-the-badge&logo=amazon-aws&logoColor=black)
-    ![Gitleaks](https://img.shields.io/badge/Gitleaks-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI%2bPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEwIDIwaDMyYzIuMiAwIDQtMS44IDQtNHYtNGMwLTIuMi0xLjgtNC00LTRIMTBjLTIuMiAwLTQgMS44LTQgNHY0YzAgMi4yIDEuOCA0IDQgNHoiLz48cGF0aCBmaWxsPSIjRjAwMDAwIiBkPSJNMTAgMjRoMzJjMi4yIDAgNC0xLjggNC00di00YzAtMi4yLTEuOC00LTQtNEgxMGMtMi4yIDAtNCAxLjgtNCA0djRjMCAyLjIgMS44IDQgNCA0eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMCAzMmgzMmMxLjEgMCAyLS45IDItMi4ydi00YzAtMS4xLS45LTItMi0ySDEwYy0xLjEgMC0yIC45LTIgMnY0YzAgMS4zLjkgMi4yIDIgMi4yeiIvPjxwYXRoIGZpbGw9IiNGMDAwMDAiIGQ9Ik0xMCAzNmgyNmMxLjEgMCAyLS45IDItMi4ydi00YzAgMS4zLS45IDIuMi0yIDIuMkgxMGMtMS4xIDAtMi0uOS0yLTIuMnYtNCBjMC0xLjMtLjktMi4yIDItMi4yeiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMCA0MmgyNGMxLjEgMCAyLS45IDItMi4ydi00YzAtMS4zLS45LTIuMi0yLTIuMkgyMGMtMS4xIDAtMiAuOS0yIDIuMnY0YzAgMS4zLjkgMi4yIDIgMi4yeiIvPjwvZz48L3N2Zz4=&logoColor=white)
-    ![SBOM](https://img.shields.io/badge/SBOM-Generator-54446E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEwIDQwaDMwVjEwSDEwVjQweiIvPjxwYXRoIGZpbGw9IiMwMDMiIGQ9Ik0xMCAxMGgzMHYzMEgxMCIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0yMCAxNmgxMHMyLjUtMSAxLjUtMXMtLjUgMi0xLjUgMi0xLjUgMi0xLjUgMi0yLjUgMS0xLjUgMi0xLjUgMi0xLjUgMnMtLjUgMi0xLjUgMnMtMS41IDItMS41IDJzLS41IDItMS41IDJzLTEuNSAxLjUtMS41IDItLjUgMi0xLjUgMi0uNSAxLjUtLjUgMi0uNSAxLjUuNSAyLTEuNSAyLS41IDItMS41IDJzLS41IDItMS41IDJzLTEuNSAyLS41IDJzLS41IDItMS41IDJzLTEuNSAxbDEuNSAxeiIvPjwvZz48L3N2Zz4=&logoColor=white)
+  <img src="https://img.shields.io/badge/Checkov-892CA0?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Checkov" />
+  <img src="https://img.shields.io/badge/TerraScan-2596BE?style=for-the-badge&logo=terraform&logoColor=white" alt="TerraScan" />
+  <img src="https://img.shields.io/badge/TFSec-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="TFSec" />
+  <img src="https://img.shields.io/badge/Dockle-3273A5?style=for-the-badge&logo=docker&logoColor=white" alt="Dockle" />
+  <img src="https://img.shields.io/badge/Prowler-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Prowler" />
+  <img src="https://img.shields.io/badge/Gitleaks-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Gitleaks" />
+  <img src="https://img.shields.io/badge/SBOM-54446E?style=for-the-badge&logo=cyclonedx&logoColor=white" alt="SBOM Generator" />
+</p>
 
-    <br>
+#### 🛡️ Runtime Security & Monitoring
 
-    ![Falco](https://img.shields.io/badge/Falco-212121?style=for-the-badge&logo=falco&logoColor=white)
-    ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Falco-00B3E6?style=for-the-badge&logo=falco&logoColor=white" alt="Falco" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+</p>
 
-    <br>
+#### 📊 Observability Stack
 
-    ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-    ![Prometheus](https://img.shields.io/badge/Prometheus-990000?style=for-the-badge&logo=prometheus&logoColor=white)
-    ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-    ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-    ![Jaeger](https://img.shields.io/badge/Jaeger-00A9E0?style=for-the-badge&logo=jaeger&logoColor=white)
-    ![Elastic Stack](https://img.shields.io/badge/ElasticStack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black" alt="Jaeger" />
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Elastic Stack" />
+</p>
 
-    <br>
+#### 🔍 Code & Vulnerability Scanning
 
-    ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BBE?style=for-the-badge&logo=sonarqube&logoColor=white)
-    ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-    ![Trivy](https://img.shields.io/badge/Trivy-212121?style=for-the-badge&logo=aquasec&logoColor=white)
-    ![Nuclei](https://img.shields.io/badge/Nuclei-Red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI%2bPGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjUiIGZpbGw9IiNDMjI5MjkiLz48cG9seWdvbiBwb2ludHM9IjEwIDE2LjY2NyAzNi42NjcgMjUuMzMyIDEwIDM0LjAwMSAxMCAxNi42NjciIGZpbGw9IiNGRkYiLz48L3N2Zz4=&logoColor=white)
-    ![OWASP](https://img.shields.io/badge/OWASP-00406F?style=for-the-badge&logo=owasp&logoColor=white)
-    ![ArgoCD](https://img.shields.io/badge/ArgoCD-F79520?style=for-the-badge&logo=argocd&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Nuclei-05C3DD?style=for-the-badge&logo=nuclei&logoColor=white" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
 
+#### 🚀 GitOps & Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white" alt="FluxCD" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 </p>
 
 ---
@@ -70,6 +82,11 @@ Skilled in designing and implementing secure, resilient, and fully automated dep
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
@@ -81,27 +98,72 @@ Skilled in designing and implementing secure, resilient, and fully automated dep
 
 ## 💡 About My Work & Focus Areas
 
-- **🎓 Education:** B.Tech in Computer Science and Engineering
+- **🎓 Education:** B.Tech in Computer Science and Engineering from Jaipur Engineering College
 - **💖 Core Focus:** DevSecOps, GitOps, Cloud-Native Security, and Observability
-- **👨🏽‍💻 Currently Deepening Knowledge in:** Kubernetes Security (Admission Controllers, RBAC), Azure DevOps/Security Services, and refining Observability Stack (Prometheus, Jaeger, OTel)
-- **📚 Key Technologies:** Agile/Scrum, CI/CD (GitLab/Jenkins/GitHub Actions), IaC (Terraform, Ansible), Containers (Docker, K8s), Databases (MySQL, PostgreSQL, MongoDB), Observability Stack (Prometheus/Grafana/Jaeger/ELK/AlertManager)
-- **🤔 Exploring:** Advanced vulnerability scanning with fuzzing and building self-healing infrastructure
-- **🖍 Getting Better At:** Automation scripting with Python and Bash
-- **👀 Interests:** Cloud & DevSecOps Engineering, Security-as-Code
+- **👨🏽‍💻 Currently Deepening Knowledge in:**
+  - Kubernetes Security (Admission Controllers, RBAC, Network Policies)
+  - Azure DevOps & Security Services
+  - Advanced Observability with OpenTelemetry, Prometheus, and Jaeger
+- **📚 Key Technologies & Methodologies:**
+  - **Agile/Scrum** development practices
+  - **CI/CD Pipelines:** GitLab CI, Jenkins, GitHub Actions
+  - **Infrastructure as Code:** Terraform, Ansible
+  - **Container Orchestration:** Docker, Kubernetes
+  - **Databases:** MySQL, PostgreSQL, MongoDB
+  - **Observability:** Prometheus, Grafana, Jaeger, ELK Stack, AlertManager
+- **🤔 Exploring:**
+  - Advanced vulnerability scanning with fuzzing techniques
+  - Building self-healing infrastructure patterns
+  - Zero Trust Architecture implementation
+- **🖍 Getting Better At:**
+  - Python automation and scripting
+  - Advanced Bash scripting for DevOps workflows
+  - Container security hardening
+- **👀 Interests:** Cloud & DevSecOps Engineering, Security-as-Code, Platform Engineering
 
 ---
 
 ## 📬 Get in Touch
 
-- **💬 Ask me about:** Kubernetes, GitOps, CI/CD pipeline optimization, Cloud Security, Terraform, and implementing Observability stacks
-- **📫 Email:** [17rahuljoshi@gmail.com](mailto:17rahuljoshi@gmail.com)
+<p align="center">
+  <a href="mailto:17rahuljoshi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.hackerrank.com/your-profile">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a> -->
+</p>
+
+**💬 Ask me about:** Kubernetes, GitOps, CI/CD pipeline optimization, Cloud Security, Terraform, Container Security, and implementing comprehensive Observability stacks
 
 ---
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=17J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
-</p> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=17J&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=17J&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⚡ "Security is not a product, but a process" - Bruce Schneier</i>
+</p>
