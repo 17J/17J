@@ -208,7 +208,6 @@ Specialized in **shift-left security**, implementing comprehensive security scan
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=17J&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
- -->
 
 <p align="center">
   <i>⚡ "DevOps is not a goal, but a never-ending process of continual improvement" - Jez Humble</i>
